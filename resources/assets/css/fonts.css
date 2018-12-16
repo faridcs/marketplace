@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src : url('../fonts/IranSans-new/IRANSansLight.woff') format('woff'), url(../fonts/IranSans-new/IRANSansLight.eot) format('eot'),url(../fonts/IranSans-new/IRANSansLight.eot?#iefix) format('embedded-opentype'),url('../fonts/IranSans-new/IRANSansLight.ttf') format('truetype');
+}
